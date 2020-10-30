@@ -1,11 +1,11 @@
 var helpers = require('./FingeringAlgorithmHelpers.js');
-
 module.exports.FingeringAlgorithm = function(midiData) {
  // This whole thing is an example of Viterbi's algorithm, if you're curious.
 
   var dataWithStarts = helpers.addStartTimes(midiData);
   // This checks if we already have the best path data for that song on the client.
   // TODO: Refactor into better response object that wouldn't need iteration
+  var app = {};
   app.preComputed = app.preComputed || [];
   for (var i = 0; i < app.preComputed.length; i++) {
     if (app.preComputed[i].title === app.currentSong) {
@@ -109,6 +109,8 @@ module.exports.FingeringAlgorithm = function(midiData) {
   // });
 
   helpers.distributePath(bestPathObj, dataWithStarts);
+
+  return dataWithStarts;
 };
 
 

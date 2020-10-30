@@ -1,0 +1,1594 @@
+[
+  [
+    {
+      "ticksToEvent": 0,
+      "event": {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "midiChannelPrefix",
+        "channel": 0
+      },
+      "track": 0
+    },
+    0
+  ],
+  [
+    {
+      "ticksToEvent": 0,
+      "event": {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "trackName",
+        "text": "Grand Piano"
+      },
+      "track": 0
+    },
+    0
+  ],
+  [
+    {
+      "ticksToEvent": 0,
+      "event": {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "instrumentName",
+        "text": "GM Device  1"
+      },
+      "track": 0
+    },
+    0
+  ],
+  [
+    {
+      "ticksToEvent": 0,
+      "event": {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "timeSignature",
+        "numerator": 4,
+        "denominator": 4,
+        "metronome": 24,
+        "thirtyseconds": 8
+      },
+      "track": 0
+    },
+    0
+  ],
+  [
+    {
+      "ticksToEvent": 0,
+      "event": {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "keySignature",
+        "key": 0,
+        "scale": 0
+      },
+      "track": 0
+    },
+    0
+  ],
+  [
+    {
+      "ticksToEvent": 0,
+      "event": {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "smpteOffset",
+        "frameRate": 25,
+        "hour": 1,
+        "min": 0,
+        "sec": 0,
+        "frame": 0,
+        "subframe": 0
+      },
+      "track": 0
+    },
+    0
+  ],
+  [
+    {
+      "ticksToEvent": 0,
+      "event": {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "setTempo",
+        "microsecondsPerBeat": 500000
+      },
+      "track": 0
+    },
+    0
+  ],
+  [
+    {
+      "ticksToEvent": 0,
+      "event": {
+        "deltaTime": 0,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 48,
+        "velocity": 53,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    0
+  ],
+  [
+    {
+      "ticksToEvent": 0,
+      "event": {
+        "deltaTime": 0,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 64,
+        "velocity": 85,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    0
+  ],
+  [
+    {
+      "ticksToEvent": 151,
+      "event": {
+        "deltaTime": 151,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 106
+      },
+      "track": 0
+    },
+    157.29166666666666
+  ],
+  [
+    {
+      "ticksToEvent": 321,
+      "event": {
+        "deltaTime": 321,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 64,
+        "velocity": 85,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    334.375
+  ],
+  [
+    {
+      "ticksToEvent": 444,
+      "event": {
+        "deltaTime": 444,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      "track": 0
+    },
+    462.5
+  ],
+  [
+    {
+      "ticksToEvent": 24,
+      "event": {
+        "deltaTime": 24,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 65,
+        "velocity": 83,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    25
+  ],
+  [
+    {
+      "ticksToEvent": 440,
+      "event": {
+        "deltaTime": 440,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 67,
+        "velocity": 86,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    458.3333333333333
+  ],
+  [
+    {
+      "ticksToEvent": 56,
+      "event": {
+        "deltaTime": 56,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 65,
+        "velocity": 78
+      },
+      "track": 0
+    },
+    58.333333333333336
+  ],
+  [
+    {
+      "ticksToEvent": 78,
+      "event": {
+        "deltaTime": 78,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 67,
+        "velocity": 118
+      },
+      "track": 0
+    },
+    81.25
+  ],
+  [
+    {
+      "ticksToEvent": 389,
+      "event": {
+        "deltaTime": 389,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 67,
+        "velocity": 86,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    405.2083333333333
+  ],
+  [
+    {
+      "ticksToEvent": 486,
+      "event": {
+        "deltaTime": 486,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 65,
+        "velocity": 82,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    506.25
+  ],
+  [
+    {
+      "ticksToEvent": 38,
+      "event": {
+        "deltaTime": 38,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 67,
+        "velocity": 80
+      },
+      "track": 0
+    },
+    39.58333333333333
+  ],
+  [
+    {
+      "ticksToEvent": 451,
+      "event": {
+        "deltaTime": 451,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 64,
+        "velocity": 87,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    469.7916666666667
+  ],
+  [
+    {
+      "ticksToEvent": 45,
+      "event": {
+        "deltaTime": 45,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 65,
+        "velocity": 117
+      },
+      "track": 0
+    },
+    46.875
+  ],
+  [
+    {
+      "ticksToEvent": 436,
+      "event": {
+        "deltaTime": 436,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 62,
+        "velocity": 85,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    454.1666666666667
+  ],
+  [
+    {
+      "ticksToEvent": 43,
+      "event": {
+        "deltaTime": 43,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 56
+      },
+      "track": 0
+    },
+    44.791666666666664
+  ],
+  [
+    {
+      "ticksToEvent": 408,
+      "event": {
+        "deltaTime": 408,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 48,
+        "velocity": 95
+      },
+      "track": 0
+    },
+    425
+  ],
+  [
+    {
+      "ticksToEvent": 24,
+      "event": {
+        "deltaTime": 24,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 60,
+        "velocity": 94,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    25
+  ],
+  [
+    {
+      "ticksToEvent": 11,
+      "event": {
+        "deltaTime": 11,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 62,
+        "velocity": 89
+      },
+      "track": 0
+    },
+    11.458333333333332
+  ],
+  [
+    {
+      "ticksToEvent": 3,
+      "event": {
+        "deltaTime": 3,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 55,
+        "velocity": 63,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    3.125
+  ],
+  [
+    {
+      "ticksToEvent": 21,
+      "event": {
+        "deltaTime": 21,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "channelAftertouch",
+        "amount": 0
+      },
+      "track": 0
+    },
+    21.875
+  ],
+  [
+    {
+      "ticksToEvent": 93,
+      "event": {
+        "deltaTime": 93,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 60,
+        "velocity": 120
+      },
+      "track": 0
+    },
+    96.875
+  ],
+  [
+    {
+      "ticksToEvent": 363,
+      "event": {
+        "deltaTime": 363,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 60,
+        "velocity": 96,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    378.125
+  ],
+  [
+    {
+      "ticksToEvent": 56,
+      "event": {
+        "deltaTime": 56,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "channelAftertouch",
+        "amount": 0
+      },
+      "track": 0
+    },
+    58.333333333333336
+  ],
+  [
+    {
+      "ticksToEvent": 405,
+      "event": {
+        "deltaTime": 405,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 62,
+        "velocity": 78,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    421.875
+  ],
+  [
+    {
+      "ticksToEvent": 29,
+      "event": {
+        "deltaTime": 29,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 60,
+        "velocity": 102
+      },
+      "track": 0
+    },
+    30.208333333333332
+  ],
+  [
+    {
+      "ticksToEvent": 443,
+      "event": {
+        "deltaTime": 443,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 64,
+        "velocity": 89,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    461.45833333333337
+  ],
+  [
+    {
+      "ticksToEvent": 6,
+      "event": {
+        "deltaTime": 6,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "channelAftertouch",
+        "amount": 0
+      },
+      "track": 0
+    },
+    6.25
+  ],
+  [
+    {
+      "ticksToEvent": 35,
+      "event": {
+        "deltaTime": 35,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 62,
+        "velocity": 93
+      },
+      "track": 0
+    },
+    36.458333333333336
+  ],
+  [
+    {
+      "ticksToEvent": 18,
+      "event": {
+        "deltaTime": 18,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "channelAftertouch",
+        "amount": 0
+      },
+      "track": 0
+    },
+    18.75
+  ],
+  [
+    {
+      "ticksToEvent": 53,
+      "event": {
+        "deltaTime": 53,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 120
+      },
+      "track": 0
+    },
+    55.20833333333333
+  ],
+  [
+    {
+      "ticksToEvent": 372,
+      "event": {
+        "deltaTime": 372,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 64,
+        "velocity": 94,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    387.5
+  ],
+  [
+    {
+      "ticksToEvent": 33,
+      "event": {
+        "deltaTime": 33,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "channelAftertouch",
+        "amount": 0
+      },
+      "track": 0
+    },
+    34.375
+  ],
+  [
+    {
+      "ticksToEvent": 450,
+      "event": {
+        "deltaTime": 450,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 62,
+        "velocity": 85,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    468.75
+  ],
+  [
+    {
+      "ticksToEvent": 67,
+      "event": {
+        "deltaTime": 67,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 80
+      },
+      "track": 0
+    },
+    69.79166666666667
+  ],
+  [
+    {
+      "ticksToEvent": 62,
+      "event": {
+        "deltaTime": 62,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 62,
+        "velocity": 113
+      },
+      "track": 0
+    },
+    64.58333333333334
+  ],
+  [
+    {
+      "ticksToEvent": 361,
+      "event": {
+        "deltaTime": 361,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 62,
+        "velocity": 83,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    376.0416666666667
+  ],
+  [
+    {
+      "ticksToEvent": 911,
+      "event": {
+        "deltaTime": 911,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 55,
+        "velocity": 85
+      },
+      "track": 0
+    },
+    948.9583333333334
+  ],
+  [
+    {
+      "ticksToEvent": 4,
+      "event": {
+        "deltaTime": 4,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 64,
+        "velocity": 90,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    4.166666666666667
+  ],
+  [
+    {
+      "ticksToEvent": 4,
+      "event": {
+        "deltaTime": 4,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 52,
+        "velocity": 88,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    4.166666666666667
+  ],
+  [
+    {
+      "ticksToEvent": 10,
+      "event": {
+        "deltaTime": 10,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 62,
+        "velocity": 64
+      },
+      "track": 0
+    },
+    10.416666666666666
+  ],
+  [
+    {
+      "ticksToEvent": 112,
+      "event": {
+        "deltaTime": 112,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 52,
+        "velocity": 108
+      },
+      "track": 0
+    },
+    116.66666666666667
+  ],
+  [
+    {
+      "ticksToEvent": 5,
+      "event": {
+        "deltaTime": 5,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 112
+      },
+      "track": 0
+    },
+    5.208333333333333
+  ],
+  [
+    {
+      "ticksToEvent": 358,
+      "event": {
+        "deltaTime": 358,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 64,
+        "velocity": 88,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    372.9166666666667
+  ],
+  [
+    {
+      "ticksToEvent": 5,
+      "event": {
+        "deltaTime": 5,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 52,
+        "velocity": 76,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    5.208333333333333
+  ],
+  [
+    {
+      "ticksToEvent": 466,
+      "event": {
+        "deltaTime": 466,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 52,
+        "velocity": 79
+      },
+      "track": 0
+    },
+    485.4166666666667
+  ],
+  [
+    {
+      "ticksToEvent": 10,
+      "event": {
+        "deltaTime": 10,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 53,
+        "velocity": 74,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    10.416666666666666
+  ],
+  [
+    {
+      "ticksToEvent": 15,
+      "event": {
+        "deltaTime": 15,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 65,
+        "velocity": 88,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    15.625
+  ],
+  [
+    {
+      "ticksToEvent": 3,
+      "event": {
+        "deltaTime": 3,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 69
+      },
+      "track": 0
+    },
+    3.125
+  ],
+  [
+    {
+      "ticksToEvent": 457,
+      "event": {
+        "deltaTime": 457,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 96
+      },
+      "track": 0
+    },
+    476.04166666666663
+  ],
+  [
+    {
+      "ticksToEvent": 8,
+      "event": {
+        "deltaTime": 8,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 55,
+        "velocity": 82,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    8.333333333333334
+  ],
+  [
+    {
+      "ticksToEvent": 1,
+      "event": {
+        "deltaTime": 1,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 67,
+        "velocity": 87,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    1.0416666666666667
+  ],
+  [
+    {
+      "ticksToEvent": 56,
+      "event": {
+        "deltaTime": 56,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 65,
+        "velocity": 84
+      },
+      "track": 0
+    },
+    58.333333333333336
+  ],
+  [
+    {
+      "ticksToEvent": 74,
+      "event": {
+        "deltaTime": 74,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 55,
+        "velocity": 104
+      },
+      "track": 0
+    },
+    77.08333333333334
+  ],
+  [
+    {
+      "ticksToEvent": 6,
+      "event": {
+        "deltaTime": 6,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 67,
+        "velocity": 111
+      },
+      "track": 0
+    },
+    6.25
+  ],
+  [
+    {
+      "ticksToEvent": 349,
+      "event": {
+        "deltaTime": 349,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 67,
+        "velocity": 93,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    363.54166666666663
+  ],
+  [
+    {
+      "ticksToEvent": 9,
+      "event": {
+        "deltaTime": 9,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 55,
+        "velocity": 79,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    9.375
+  ],
+  [
+    {
+      "ticksToEvent": 467,
+      "event": {
+        "deltaTime": 467,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 53,
+        "velocity": 70,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    486.4583333333333
+  ],
+  [
+    {
+      "ticksToEvent": 2,
+      "event": {
+        "deltaTime": 2,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 65,
+        "velocity": 89,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    2.0833333333333335
+  ],
+  [
+    {
+      "ticksToEvent": 7,
+      "event": {
+        "deltaTime": 7,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 55,
+        "velocity": 85
+      },
+      "track": 0
+    },
+    7.291666666666667
+  ],
+  [
+    {
+      "ticksToEvent": 49,
+      "event": {
+        "deltaTime": 49,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 67,
+        "velocity": 83
+      },
+      "track": 0
+    },
+    51.041666666666664
+  ],
+  [
+    {
+      "ticksToEvent": 435,
+      "event": {
+        "deltaTime": 435,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 52,
+        "velocity": 76,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    453.125
+  ],
+  [
+    {
+      "ticksToEvent": 4,
+      "event": {
+        "deltaTime": 4,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 64,
+        "velocity": 86,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    4.166666666666667
+  ],
+  [
+    {
+      "ticksToEvent": 22,
+      "event": {
+        "deltaTime": 22,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 79
+      },
+      "track": 0
+    },
+    22.916666666666664
+  ],
+  [
+    {
+      "ticksToEvent": 35,
+      "event": {
+        "deltaTime": 35,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 65,
+        "velocity": 92
+      },
+      "track": 0
+    },
+    36.458333333333336
+  ],
+  [
+    {
+      "ticksToEvent": 377,
+      "event": {
+        "deltaTime": 377,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 52,
+        "velocity": 101
+      },
+      "track": 0
+    },
+    392.7083333333333
+  ],
+  [
+    {
+      "ticksToEvent": 34,
+      "event": {
+        "deltaTime": 34,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 62,
+        "velocity": 90,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    35.416666666666664
+  ],
+  [
+    {
+      "ticksToEvent": 9,
+      "event": {
+        "deltaTime": 9,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 50,
+        "velocity": 78,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    9.375
+  ],
+  [
+    {
+      "ticksToEvent": 32,
+      "event": {
+        "deltaTime": 32,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 94
+      },
+      "track": 0
+    },
+    33.333333333333336
+  ],
+  [
+    {
+      "ticksToEvent": 437,
+      "event": {
+        "deltaTime": 437,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 50,
+        "velocity": 85
+      },
+      "track": 0
+    },
+    455.2083333333333
+  ],
+  [
+    {
+      "ticksToEvent": 15,
+      "event": {
+        "deltaTime": 15,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 48,
+        "velocity": 78,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    15.625
+  ],
+  [
+    {
+      "ticksToEvent": 5,
+      "event": {
+        "deltaTime": 5,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 60,
+        "velocity": 88,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    5.208333333333333
+  ],
+  [
+    {
+      "ticksToEvent": 6,
+      "event": {
+        "deltaTime": 6,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 62,
+        "velocity": 99
+      },
+      "track": 0
+    },
+    6.25
+  ],
+  [
+    {
+      "ticksToEvent": 125,
+      "event": {
+        "deltaTime": 125,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 48,
+        "velocity": 115
+      },
+      "track": 0
+    },
+    130.20833333333334
+  ],
+  [
+    {
+      "ticksToEvent": 4,
+      "event": {
+        "deltaTime": 4,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 60,
+        "velocity": 112
+      },
+      "track": 0
+    },
+    4.166666666666667
+  ],
+  [
+    {
+      "ticksToEvent": 354,
+      "event": {
+        "deltaTime": 354,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 60,
+        "velocity": 90,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    368.75
+  ],
+  [
+    {
+      "ticksToEvent": 10,
+      "event": {
+        "deltaTime": 10,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 48,
+        "velocity": 76,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    10.416666666666666
+  ],
+  [
+    {
+      "ticksToEvent": 460,
+      "event": {
+        "deltaTime": 460,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 48,
+        "velocity": 95
+      },
+      "track": 0
+    },
+    479.1666666666667
+  ],
+  [
+    {
+      "ticksToEvent": 2,
+      "event": {
+        "deltaTime": 2,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 62,
+        "velocity": 86,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    2.0833333333333335
+  ],
+  [
+    {
+      "ticksToEvent": 1,
+      "event": {
+        "deltaTime": 1,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 50,
+        "velocity": 80,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    1.0416666666666667
+  ],
+  [
+    {
+      "ticksToEvent": 37,
+      "event": {
+        "deltaTime": 37,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 60,
+        "velocity": 102
+      },
+      "track": 0
+    },
+    38.54166666666667
+  ],
+  [
+    {
+      "ticksToEvent": 410,
+      "event": {
+        "deltaTime": 410,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 50,
+        "velocity": 80
+      },
+      "track": 0
+    },
+    427.0833333333333
+  ],
+  [
+    {
+      "ticksToEvent": 5,
+      "event": {
+        "deltaTime": 5,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 64,
+        "velocity": 87,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    5.208333333333333
+  ],
+  [
+    {
+      "ticksToEvent": 11,
+      "event": {
+        "deltaTime": 11,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 52,
+        "velocity": 76,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    11.458333333333332
+  ],
+  [
+    {
+      "ticksToEvent": 1,
+      "event": {
+        "deltaTime": 1,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 62,
+        "velocity": 81
+      },
+      "track": 0
+    },
+    1.0416666666666667
+  ],
+  [
+    {
+      "ticksToEvent": 457,
+      "event": {
+        "deltaTime": 457,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 52,
+        "velocity": 98
+      },
+      "track": 0
+    },
+    476.04166666666663
+  ],
+  [
+    {
+      "ticksToEvent": 31,
+      "event": {
+        "deltaTime": 31,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 62,
+        "velocity": 83,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    32.29166666666667
+  ],
+  [
+    {
+      "ticksToEvent": 8,
+      "event": {
+        "deltaTime": 8,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 50,
+        "velocity": 77,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    8.333333333333334
+  ],
+  [
+    {
+      "ticksToEvent": 27,
+      "event": {
+        "deltaTime": 27,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 70
+      },
+      "track": 0
+    },
+    28.125
+  ],
+  [
+    {
+      "ticksToEvent": 426,
+      "event": {
+        "deltaTime": 426,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 48,
+        "velocity": 77,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    443.75
+  ],
+  [
+    {
+      "ticksToEvent": 1,
+      "event": {
+        "deltaTime": 1,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 60,
+        "velocity": 84,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    1.0416666666666667
+  ],
+  [
+    {
+      "ticksToEvent": 1,
+      "event": {
+        "deltaTime": 1,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 50,
+        "velocity": 76
+      },
+      "track": 0
+    },
+    1.0416666666666667
+  ],
+  [
+    {
+      "ticksToEvent": 26,
+      "event": {
+        "deltaTime": 26,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 62,
+        "velocity": 76
+      },
+      "track": 0
+    },
+    27.083333333333336
+  ],
+  [
+    {
+      "ticksToEvent": 102,
+      "event": {
+        "deltaTime": 102,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 48,
+        "velocity": 117
+      },
+      "track": 0
+    },
+    106.25
+  ],
+  [
+    {
+      "ticksToEvent": 20,
+      "event": {
+        "deltaTime": 20,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 60,
+        "velocity": 109
+      },
+      "track": 0
+    },
+    20.833333333333332
+  ],
+  [
+    {
+      "ticksToEvent": 354,
+      "event": {
+        "deltaTime": 354,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 60,
+        "velocity": 90,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    368.75
+  ],
+  [
+    {
+      "ticksToEvent": 8,
+      "event": {
+        "deltaTime": 8,
+        "channel": 0,
+        "type": "channel",
+        "noteNumber": 48,
+        "velocity": 79,
+        "subtype": "noteOn"
+      },
+      "track": 0
+    },
+    8.333333333333334
+  ],
+  [
+    {
+      "ticksToEvent": 3880,
+      "event": {
+        "deltaTime": 3880,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 60,
+        "velocity": 121
+      },
+      "track": 0
+    },
+    4041.666666666667
+  ],
+  [
+    {
+      "ticksToEvent": 2,
+      "event": {
+        "deltaTime": 2,
+        "channel": 0,
+        "type": "channel",
+        "subtype": "noteOff",
+        "noteNumber": 48,
+        "velocity": 100
+      },
+      "track": 0
+    },
+    2.0833333333333335
+  ],
+  [
+    {
+      "ticksToEvent": 0,
+      "event": {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "endOfTrack"
+      },
+      "track": 0
+    },
+    0
+  ]
+]

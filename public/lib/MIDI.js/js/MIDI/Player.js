@@ -99,6 +99,7 @@ root.setAnimation = function(config) {
 root.loadMidiFile = function() { // reads midi into javascript array of events
 	root.replayer = new Replayer(MidiFile(root.currentData), root.timeWarp);
 	root.data = root.replayer.getData();
+	console.log('hakim' , root.data);
 	app.fingeringAlgorithm(); //this alters root.data object to add the appropriate finger property.
 	root.endTime = getLength();
 };
